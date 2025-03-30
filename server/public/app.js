@@ -1,4 +1,4 @@
-const socket = io('http://localhost:3500') //specficy where your server is in the code here
+const socket = io('https://chatapp-dv6w.onrender.com') //specficy where your server is in the code here
 
 const msgInput = document.querySelector('#message')
 const nameInput = document.querySelector('#name')
